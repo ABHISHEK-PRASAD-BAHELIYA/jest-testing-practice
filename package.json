@@ -1,0 +1,15 @@
+{
+  "name": "jest-testing-practice",
+  "version": "1.0.0",
+  "description": "This repository contains a collection of examples and exercises to practice unit testing and test-driven development (TDD) using Jest, a popular JavaScript testing framework. The content is designed for beginners and intermediate developers looking to strengthen their testing skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Abhishek prasad baheliya",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
